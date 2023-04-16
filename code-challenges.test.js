@@ -14,7 +14,7 @@
 
 // a) Create a test with an expect statement using the variable provided.
 
-const people = [
+const hitchhikersCharacters = [
   { name: "ford prefect", occupation: "a hitchhiker" },
   { name: "zaphod beeblebrox", occupation: "president of the galaxy" },
   { name: "arthur dent", occupation: "a radio employee" }
