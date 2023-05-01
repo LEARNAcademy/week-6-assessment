@@ -23,6 +23,8 @@ const hitchhikersCharacters = [
 
 // b) Create the function that makes the test pass.
 
+// Pseudo code:
+
 // --------------------2) Create a function that takes in a mixed data array and returns an array of only the REMAINDERS of the numbers when divided by 3.
 
 // a) Create a test with an expect statement using the variables provided.
@@ -34,6 +36,8 @@ const hodgepodge2 = [5, "Hola", 43, -34, "greetings", true]
 
 // b) Create the function that makes the test pass.
 
+// Pseudo code:
+
 // --------------------3) Create a function that takes in an array of numbers and returns the sum of all the numbers cubed.
 
 // a) Create a test with an expect statement using the variables provided.
@@ -44,3 +48,5 @@ const cubeAndSum2 = [0, 5, 10]
 // Expected output: 1125
 
 // b) Create the function that makes the test pass.
+
+// Pseudo code:
