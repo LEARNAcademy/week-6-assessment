@@ -6,13 +6,15 @@ First, without external resources. Challenge yourself to answer from memory.
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely on your own, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
+Type your initials here to confirm you read the instructions:
+
 1. As a Rails developer, I am creating an application with a model called Cohort and a model called Student. The relationship between these models is that a cohort has_many students, but OOPS! I forgot to add the foreign key. How can I fix this mistake? What is the name of the foreign key? Would the foreign key be on the Cohort model or the Student model?
 
 Your answer:
 
 Researched answer:
 
-2. Which RESTful routes must always be passed params? Why?
+2. Which RESTful routes must always be passed params?
 
 Your answer:
 
